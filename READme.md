@@ -6,7 +6,7 @@
 
 ### **TECHNICAL SKILLS**
 
-**Languages [** _JavaScript, Python, Java, SQL, HTML5, CSS3_ **]** **Frameworks/Libraries [** *React, Node.js, Express.js, Django,Flask, Spring Boot, Bootstrap, Sass, jQuery*​ **]** **Databases [** *MongoDB, MySQL, SQLite*​ **]** **Version Control Systems [** _G​it, Github_ **]​** **Tools [** _B​Crypt, Postman, API, MySQLWorkBench, AWS EC2, VSCode, Figma​_ **]**
+**Languages [** _JavaScript, Python, Java, SQL, HTML5, CSS3_ **]** **Frameworks/Libraries [** *React, Node.js, Express.js, Django,Flask, Spring Boot, Bootstrap, Sass, jQuery*​ **]** **Databases [** *MongoDB, MySQL, SQLite*​ **]** **Version Control Systems [** _G​it, Github_ **]​** **Tools [** _B​Crypt, Postman, API, MySQL WorkBench, AWS EC2, VS Code, Figma​_ **]**
 
 ---
 
