@@ -6,7 +6,7 @@
 
 ### **TECHNICAL SKILLS**
 
-**Languages [** _J​avascript, Python, Java, SQL, HTML5, CSS3_ **]** **Frameworks/Libraries [** *R​eact,Node.js,Express.js,Django,Flask, Spring Boot, Bootstrap, Sass, jQuery*​ **]** **Databases [** *M​ongoDB, MySQL, SQLite*​ **]** **Version Control Systems [** _G​it, Github_ **]​** **Tools [** _B​Crypt, Postman, API, MySQLWorkBench, AWS EC2, VSCode, Figma​_ **]**
+**Languages [** _JavaScript, Python, Java, SQL, HTML5, CSS3_ **]** **Frameworks/Libraries [** *React, Node.js, Express.js, Django,Flask, Spring Boot, Bootstrap, Sass, jQuery*​ **]** **Databases [** *MongoDB, MySQL, SQLite*​ **]** **Version Control Systems [** _G​it, Github_ **]​** **Tools [** _B​Crypt, Postman, API, MySQLWorkBench, AWS EC2, VSCode, Figma​_ **]**
 
 ---
 
@@ -16,11 +16,11 @@
 
 -   Created and linked four models using MySQL, enabling individual users to track their patient’s medical records, and include multiple referrals for each patient
 -   Developed and integrated a complete login/registration system including database records, password encryption using BCrypt, and working validations
--   Integrated two RESTful APIs: display of current U.S. COVID-19 positive cases via The COVID Tracking Project (m​ aintained by The Atlantic​), and data-visualization of the database using [C​hart.js](https://chartjs.com)
+-   Integrated two RESTful APIs: display of current U.S. COVID-19 positive cases via The COVID Tracking Project ([maintained by The Atlantic​](https://covidtracking.com/data/api/)), and data-visualization of the database using [C​hart.js](https://chartjs.com)
 
 **Musician Match (Javascript/MERN)** |​ [​Github](https://github.com/jonathankohen/musician_match) | _A one-stop-shop for musicians to find their ideal collaborator_
 
--   Architected responsive single-page app using React, Sass, custom Bootstrap theme, Animate.css, interactive UI to create an engaging user experience
+-   Built responsive single-page app using React, Sass, custom Bootstrap theme, Animate.css, interactive UI to create an engaging user experience
 -   Created a NoSQL database for data flexibility, storage scalability, and high-speed response to queries using MongoDB, Express.js, and Node.js
 -   Implemented a user login and registration using front-end validations and JSON web tokens for secure and personal user experience
 
@@ -34,11 +34,11 @@
 
 ### **EXPERIENCE**
 
-**Coding Dojo​** — _T​eaching Assistant_ |​ ​ **_​December 2020 - Present_**
+**Coding Dojo​** — _Teaching Assistant_ |​ ​ **_​December 2020 - Present_**
 
 -   Assists students in web fundamentals (HTML, CSS, JavaScript, jQuery, MySQL), Python (Flask, Django), MERN, and Java (Spring Boot) classes by answering questions, demonstrating techniques, and debugging code
 
-**Family Matters In-Home Care​** — _O​perations Associate_ ​|​ **_​April 2018 - January 2020_**
+**Family Matters In-Home Care​** — _Operations Associate_ ​|​ **_​April 2018 - January 2020_**
 
 -   Resolved internal and external issues related to scheduling, urgent medical care, and client needs for over 200
     caregivers over the phone, text, and email, in a fast-paced, high-pressure environment
